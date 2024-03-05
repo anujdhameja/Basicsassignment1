@@ -1,0 +1,18 @@
+Question 3) How much space does the following data type take ? int bool float \
+Answer) int takes 4 bytes , float takes 4 bytes , bool takes 1 bytes
+
+Question 4 )int main() {
+int a = 4;
+int b = 5;
+a++, b--;
+cout << ++a << " " << b--;
+}
+Answer)6 4
+
+Question 6) How many of these can be a variable name ?
+01 Pwskills
+ _FLOAT
+ int
+ FLOAT
+ You will succeed
+Answer) 2nd and 4th is correct ! , _FLOAT and FLOAT
